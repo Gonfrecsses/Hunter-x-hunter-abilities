@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hunter x Hunter Characters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('background_image.jpg');
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hunter x Hunter Characters</h1>
+</header>
+
+<div class="container">
+    <h2>About Gon Freecss</h2>
+    <p>Gon Freecss is a determined and adventurous young boy on a quest to become a Hunter, just like his father. He possesses incredible strength, agility, and an unwavering sense of justice.</p>
+    
+    <h2>Gon's Abilities</h2>
+    <p>Gon possesses remarkable physical abilities, including superhuman strength, speed, and reflexes. He has trained extensively in martial arts and hand-to-hand combat, making him a formidable opponent in battle.</p>
+    <p>One of Gon's most unique abilities is his incredible resilience and determination. He is known for pushing himself to the absolute limit, often enduring immense pain and hardship to achieve his goals.</p>
+    
+    <h2>About Killua Zoldyck</h2>
+    <p>Killua Zoldyck is a skilled assassin from the infamous Zoldyck family. He possesses incredible agility, lightning-fast reflexes, and deadly assassin techniques.</p>
+    
+    <h2>Killua's Abilities</h2>
+    <p>Killua is an expert in assassination techniques and is proficient in various forms of combat, including hand-to-hand combat and swordsmanship. He can move at incredible speeds and is capable of
